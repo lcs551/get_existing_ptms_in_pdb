@@ -1,0 +1,96 @@
+ID,target_residue,residue_location,protein_location,PTM_type,ChEBI,RESID,CCD_substructure,Check,CCD_resid,CCD_combined
+"(Z)-2,3-didehydroaspartate",Aspartate.,Amino acid backbone.,Protein core.,nan,145325.0,nan,"2KZ, DYA",nan,nan,"2KZ, DYA"
+"(E)-2,3-didehydrotyrosine",Tyrosine.,Amino acid backbone.,Protein core.,nan,nan,AA0365,nan,nan,nan,
+"(Z)-2,3-didehydrotyrosine",Tyrosine.,Amino acid backbone.,Protein core.,nan,nan,AA0183,nan,nan,nan,
+"2,3-didehydrotyrosine",Tyrosine.,Amino acid backbone.,Protein core.,nan,nan,nan,nan,nan,nan,
+"2,3-didehydroalanine (Cys)",Cysteine.,Amino acid backbone.,Protein core.,nan,90873.0,AA0181,DHA,DHA,DHA,DHA
+"2,3-didehydroalanine (Ser)",Serine.,Amino acid backbone.,Protein core.,nan,90873.0,AA0181,DHA,DHA,DHA,DHA
+"2,3-didehydroalanine (Tyr)",Tyrosine.,Amino acid backbone.,Protein core.,nan,90873.0,AA0181,DHA,DHA,DHA,DHA
+"(E)-2,3-didehydrobutyrine",Threonine.,Amino acid backbone.,Protein core.,nan,nan,AA0547,nan,nan,nan,
+"(Z)-2,3-didehydrobutyrine",Threonine.,Amino acid backbone.,Protein core.,nan,nan,AA0182,nan,DBU,DBU,DBU
+"2,3-didehydrobutyrine",Threonine.,Amino acid backbone.,Protein core.,nan,nan,nan,nan,nan,nan,
+1-amino-2-propanone,Threonine.,Amino acid backbone.,C-terminal.,nan,nan,AA0486,nan,nan,nan,
+1-thioglycine,Glycine.,Amino acid backbone.,Protein core.,nan,nan,AA0265,nan,GL3,GL3,GL3
+2-oxobutanoic acid,Threonine.,Amino acid backbone.,N-terminal.,nan,149508.0,AA0129,2KT,nan,nan,2KT
+"2-oxo-5,5-dimethylhexanoate",Threonine.,Amino acid backbone.,N-terminal.,nan,149505.0,nan,MHE,nan,nan,MHE
+3-oxoalanine (Cys),Cysteine.,Amino acid side chain.,Anywhere.,nan,85621.0,AA0185,nan,nan,nan,
+3-oxoalanine (Ser),Serine.,Amino acid side chain.,Anywhere.,nan,85621.0,AA0185,nan,nan,nan,
+3-phenyllactic acid,Phenylalanine.,Amino acid backbone.,N-terminal.,nan,nan,AA0128,nan,nan,nan,
+5-glutamyl 2-aminoadipic acid,Glutamate.,Amino acid side chain.,C-terminal.,nan,78503.0,AA0502,R0K,nan,nan,R0K
+5-glutamyl N2-ornithine,Glutamate.,Amino acid side chain.,C-terminal.,Isopeptide bond.,136763.0,nan,nan,nan,nan,
+5-glutamyl glutamate,Glutamate.,Amino acid side chain.,Anywhere.,Isopeptide bond.,143622.0,AA0612,KSN,nan,nan,KSN
+5-glutamyl glycine,Glutamate.,Amino acid side chain.,Anywhere.,Isopeptide bond.,167890.0,nan,"LAI, XLS, RB5, ROR",nan,nan,"RB5, LAI, ROR, XLS"
+5-glutamyl N2-lysine,Glutamate.,Amino acid side chain.,C-terminal.,Isopeptide bond.,78526.0,AA0505,nan,nan,nan,
+5-glutamyl polyglycine,Glutamate.,Amino acid side chain.,Anywhere.,Isopeptide bond.,167891.0,AA0201,nan,nan,nan,
+5-glutamyl polyglutamate,Glutamate.,Amino acid side chain.,Anywhere.,Isopeptide bond.,143623.0,AA0202,nan,nan,nan,
+"""3-bromotyrosine""",Tyrosine.,Amino acid side chain.,Anywhere.,Bromination.,183512.0,nan,BYR,nan,nan,BYR
+"""6-bromotryptophan""",Tryptophan.,Amino acid side chain.,Anywhere.,Bromination.,61899.0,AA0179,nan,BTR,BTR,BTR
+"""5-chlorotryptophan""",Tryptophan.,Amino acid side chain.,Anywhere.,nan,nan,AA0549,nan,nan,nan,
+"""6-chlorotryptophan""",Tryptophan.,Amino acid side chain.,Anywhere.,nan,nan,AA0180,nan,6CW,6CW,6CW
+Alanine derivative,Alanine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Aminomalonic acid (Ser),Serine.,Amino acid side chain.,Anywhere.,nan,nan,AA0458,nan,FGL,FGL,FGL
+Arginine derivative,Arginine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Aspartate methyl ester,Aspartate.,Amino acid side chain.,Anywhere.,Methylation.,197389.0,AA0435,FL6,nan,nan,FL6
+Aspartyl aldehyde,Aspartate.,Amino acid side chain.,Anywhere.,nan,nan,AA0373,nan,nan,nan,
+Beta-decarboxylated aspartate,Aspartate.,Amino acid side chain.,Anywhere.,nan,nan,AA0001,nan,nan,nan,
+Blocked carboxyl end (Arg),Arginine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Blocked carboxyl end (His),Histidine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Bromohistidine,Histidine.,Amino acid side chain.,Anywhere.,Bromination.,nan,AA0173,nan,nan,nan,
+"Cis-14-hydroxy-10,13-dioxo-7-heptadecenoic acid aspartate ester",Aspartate.,Amino acid side chain.,Anywhere.,Lipoprotein.,nan,AA0316,nan,nan,nan,
+Cyclo(prolylserin)-O-yl cysteinate,Cysteine.,Amino acid backbone.,C-terminal.,nan,nan,nan,nan,nan,nan,
+CysO-cysteine adduct,Glycine.,Amino acid backbone.,C-terminal.,nan,nan,AA0529,nan,nan,nan,
+Cysteine derivative,Cysteine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Cysteine methyl disulfide,Cysteine.,Amino acid side chain.,Anywhere.,Methylation.,nan,AA0101,nan,SCH,SCH,SCH
+Cysteine methyl ester,Cysteine.,Amino acid backbone.,C-terminal.,Methylation.,61989.0,AA0105,CMT,CMT,CMT,CMT
+Deamidated asparagine,Asparagine.,Amino acid side chain.,Anywhere.,nan,29961.0,AA0004,nan,nan,nan,
+Deamidated glutamine,Glutamine.,Amino acid side chain.,Anywhere.,nan,29973.0,AA0006,nan,nan,nan,
+Decarboxylated threonine,Threonine.,Amino acid backbone.,C-terminal.,nan,nan,AA0465,nan,nan,nan,
+FMN phosphoryl serine,Serine.,Amino acid side chain.,Anywhere.,FMN; Phosphoprotein.,156050.0,AA0350,nan,nan,nan,
+FMN phosphoryl threonine,Threonine.,Amino acid side chain.,Anywhere.,FMN; Phosphoprotein.,74257.0,AA0349,nan,nan,nan,
+Glutamine derivative,Glutamine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Glycyl adenylate,Glycine.,Amino acid backbone.,C-terminal.,Nucleotide-binding; Phosphoprotein.,83151.0,AA0511,GAP,nan,nan,GAP
+Iodotyrosine,Tyrosine.,Amino acid side chain.,Anywhere.,Iodination.,90870.0,AA0509,nan,IYR,IYR,IYR
+Diiodotyrosine,Tyrosine.,Amino acid side chain.,Anywhere.,Iodination.,90871.0,AA0510,TYI,TYI,TYI,TYI
+Triiodothyronine,Tyrosine.,Amino acid side chain.,Anywhere.,Iodination.,90874.0,AA0177,T3,nan,nan,T3
+Thyroxine,Tyrosine.,Amino acid side chain.,Anywhere.,Iodination.,90872.0,AA0178,T44,nan,nan,T44
+Isoleucine derivative,Isoleucine.,nan,nan,nan,nan,nan,nan,nan,nan,
+L-allo-isoleucine,Isoleucine.,Amino acid backbone.,Protein core.,nan,30008.0,AA0546,"IIL, ILE, 28J, DIL, ILE_LEO2, ILE_LEO2H, ILE_LFOH, ILE_LFZW",nan,nan,"ILE_LEO2, ILE_LFZW, ILE_LEO2H, ILE, DIL, 28J, ILE_LFOH, IIL"
+Lysine derivative,Lysine.,nan,nan,nan,nan,nan,nan,nan,nan,
+Lysino-D-alanine (Lys),Lysine.,Amino acid side chain.,Anywhere.,nan,nan,AA0123,nan,nan,nan,
+Methionine derivative,Methionine.,nan,nan,nan,nan,nan,nan,nan,nan,
+N6-(pyridoxal phosphate)lysine,Lysine.,Amino acid side chain.,Anywhere.,Pyridoxal phosphate.,143915.0,AA0119,"IT1, LLP",LLP,LLP,"IT1, LLP"
+N6-(retinylidene)lysine,Lysine.,Amino acid side chain.,Anywhere.,Retinal protein.,149695.0,AA0120,nan,LYR,LYR,LYR
+N6-poly(methylaminopropyl)lysine,Lysine.,Amino acid side chain.,Anywhere.,Methylation.,nan,AA0278,nan,nan,nan,
+N6-poly(beta-hydroxybutyryl)lysine,Lysine.,Amino acid side chain.,Anywhere.,Hydroxylation.,nan,nan,nan,nan,nan,
+O3-poly(beta-hydroxybutyryl)serine,Serine.,Amino acid side chain.,Anywhere.,Hydroxylation.,nan,AA0618,nan,nan,nan,
+S-poly(beta-hydroxybutyryl)cysteine,Cysteine.,Amino acid side chain.,Anywhere.,Hydroxylation.,nan,AA0617,nan,nan,nan,
+S-cyanocysteine,Cysteine.,Amino acid side chain.,Anywhere.,nan,nan,AA0333,nan,nan,nan,
+"S-(2,3-dicarboxypropyl)cysteine",Cysteine.,Amino acid side chain.,Anywhere.,nan,144095.0,nan,nan,nan,nan,
+"""O-(5-phospho-DNA)-serine""",Serine.,Amino acid side chain.,Anywhere.,Covalent protein-DNA linkage; Phosphoprotein.,nan,AA0246,nan,nan,nan,
+"""O-(5-phospho-DNA)-tyrosine""",Tyrosine.,Amino acid side chain.,Anywhere.,Covalent protein-DNA linkage; Phosphoprotein.,nan,AA0254,nan,nan,nan,
+"""O-(5-phospho-RNA)-serine""",Serine.,Amino acid side chain.,Anywhere.,Covalent protein-RNA linkage; Phosphoprotein.,nan,AA0213,nan,nan,nan,
+"""O-(5-phospho-RNA)-tyrosine""",Tyrosine.,Amino acid side chain.,Anywhere.,Covalent protein-RNA linkage; Phosphoprotein.,nan,AA0249,nan,nan,nan,
+O-(sn-1-glycerophosphoryl)serine,Serine.,Amino acid side chain.,Anywhere.,Phosphoprotein.,nan,AA0264,nan,nan,nan,
+O-8alpha-FAD tyrosine,Tyrosine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0145,nan,nan,nan,
+Pros-8alpha-FAD histidine,Histidine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0144,nan,nan,nan,
+S-(coelenterazin-3a-yl)cysteine,Cysteine.,Amino acid side chain.,Anywhere.,nan,nan,nan,nan,nan,nan,
+S-(dipyrrolylmethanemethyl)cysteine,Cysteine.,Amino acid side chain.,Anywhere.,nan,61892.0,AA0252,nan,nan,nan,DPM
+S-4a-FMN cysteine,Cysteine.,Amino acid side chain.,Anywhere.,FMN.,nan,AA0351,nan,nan,nan,
+S-6-FMN cysteine,Cysteine.,Amino acid side chain.,Anywhere.,FMN.,nan,AA0220,nan,nan,nan,
+S-8alpha-FAD cysteine,Cysteine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0143,nan,nan,nan,
+S-bacillithiol cysteine disulfide,Cysteine.,Amino acid side chain.,Anywhere.,nan,nan,AA0563,nan,nan,nan,
+S-cysteinyl cysteine,Cysteine.,Amino acid side chain.,Anywhere.,nan,nan,AA0025,nan,nan,nan,
+Serine microcin E492 siderophore ester,Serine.,Amino acid backbone.,C-terminal.,nan,nan,AA0374,nan,nan,nan,
+L-cysteine coenzyme A disulfide,Cysteine.,Amino acid side chain.,Anywhere.,nan,195328.0,AA0306,nan,nan,nan,
+S-selanylcysteine,Cysteine.,Amino acid side chain.,Anywhere.,Selenium.,nan,AA0277,nan,CSZ,CSZ,CSZ
+"Tele-(1,2,3-trihydroxypropan-2-yl)histidine",Histidine.,Amino acid side chain.,Anywhere.,nan,nan,AA0431,nan,HIQ,HIQ,HIQ
+Tele-8alpha-FAD histidine,Histidine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0221,nan,nan,nan,
+Tele-8alpha-FMN histidine,Histidine.,Amino acid side chain.,Anywhere.,FMN.,nan,AA0352,nan,nan,nan,
+Thiazolidine linkage to a ring-opened DNA abasic site,Cysteine.,Amino acid side chain.,N-terminal.,Covalent protein-DNA linkage.,145793.0,nan,nan,nan,nan,
+Threonine methyl ester,Threonine.,Amino acid backbone.,C-terminal.,Methylation.,nan,AA0507,nan,nan,nan,
+Tryptophan derivative,Tryptophan.,nan,nan,nan,nan,nan,nan,nan,nan,
+Tryptophylquinone,Tryptophan.,Amino acid side chain.,Anywhere.,nan,nan,AA0148,nan,TRQ,TRQ,TRQ
+5-glutamyl dopamine,Glutamine.,Amino acid side chain.,Anywhere.,nan,167175.0,nan,nan,nan,nan,
+5-glutamyl histamine,Glutamine.,Amino acid side chain.,Anywhere.,nan,167179.0,AA0596,nan,nan,nan,
+5-glutamyl noradrenaline,Glutamine.,Amino acid side chain.,Anywhere.,nan,167178.0,nan,nan,nan,nan,
+5-glutamyl serotonin,Glutamine.,Amino acid side chain.,Anywhere.,nan,167174.0,AA0528,nan,nan,nan,

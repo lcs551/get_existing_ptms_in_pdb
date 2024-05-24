@@ -1,0 +1,15 @@
+,ID,target_residue,residue_location,protein_location,PTM_type,ChEBI,CCD_substructure,Check,CCD_resid,CCD_combined,Lipid
+80,Cysteine persulfide,Cysteine.,Amino acid side chain.,Anywhere.,Oxidation,61963,CSS,CSS,CSS,CSS,No
+88,Diphthamide,Histidine.,Amino acid side chain.,Anywhere.,Diphthamide,16692,nan,DDE,DDE,DDE,No
+109,Deoxyhypusine,Lysine.,Amino acid side chain.,Anywhere.,Hypusine,82657,5GG,nan,nan,5GG,No
+111,D-lactate,Serine.,Amino acid backbone.,N-terminal.,Lactoylation,149487,"2OP, DLA, LAC",nan,nan,"LAC, 2OP, DLA",No
+146,N6-1-carboxyethyl lysine,Lysine.,Amino acid side chain.,Anywhere.,Carboxyethylation,156063,RF9,nan,nan,RF9,No
+150,N6-carbamoyllysine,Lysine.,Amino acid side chain.,Anywhere.,Carbamoylation,144369,YHA,nan,nan,YHA,No
+151,N6-carboxylysine,Lysine.,Amino acid side chain.,Anywhere.,Carboxylation,144366,KCX,nan,nan,KCX,No
+152,N6-crotonyllysine,Lysine.,Amino acid side chain.,Anywhere.,Crotonylation,137954,KCR,nan,nan,KCR,No
+155,N6-lactoyllysine,Lysine.,Amino acid side chain.,Anywhere.,Lactoylation,145324,D8R,nan,nan,D8R,No
+163,N6-succinyllysine,Lysine.,Amino acid side chain.,Anywhere.,Succinylation,87830,nan,nan,nan,SLL,No
+165,N6-butyryllysine,Lysine.,Amino acid side chain.,Anywhere.,Butyrylation,137955,BTK,BTK,BTK,BTK,No
+168,N6-propionyllysine,Lysine.,Amino acid side chain.,Anywhere.,Propionylation,138019,PRK,PRK,PRK,PRK,No
+184,S-(2-succinyl)cysteine,Cysteine.,Amino acid side chain.,Anywhere.,Succinylation,143134,CML,nan,nan,CML,No
+185,S-carbamoylcysteine,Cysteine.,Amino acid side chain.,Anywhere.,Carbamoylation,nan,nan,nan,nan,QCS,No

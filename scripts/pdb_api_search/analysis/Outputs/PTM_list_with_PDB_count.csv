@@ -1,0 +1,177 @@
+,ID,target_residue,ChEBI,RESID,CCD,PDB_count
+0,(3R)-3-hydroxyarginine,Arginine.,78294.0,AA0601,"4D4, ZZU",81.0
+1,(3R)-3-hydroxyasparagine,Asparagine.,141853.0,AA0026,"OWF, AHB",6.0
+2,(3R)-3-hydroxyaspartate,Aspartate.,141848.0,AA0027,"DOH, BH2, 999, BHD",12.0
+3,(3S)-3-hydroxyhistidine,Histidine.,138021.0,AA0580,V5N,12.0
+4,"(3R,4R)-4,5-dihydroxyisoleucine",Isoleucine.,141826.0,AA0449,ILX,20.0
+5,(3S)-3-hydroxyasparagine,Asparagine.,138107.0,AA0478,"OWF, AHB",6.0
+6,(3S)-3-hydroxyaspartate,Aspartate.,138111.0,AA0579,"DOH, BH2, 999, BHD",12.0
+7,(3S)-3-hydroxylysine,Lysine.,141492.0,nan,CUW,0.0
+8,"(3S,4R)-3,4-dihydroxyisoleucine",Isoleucine.,141827.0,AA0447,TS9,11.0
+9,(4R)-5-hydroxyleucine,Leucine.,141824.0,AA0443,HL5,0.0
+10,"(4R)-4,5-dihydroxyleucine",Leucine.,141823.0,AA0445,"G5G, EEP",37.0
+11,"(4S)-4,5-dihydroxyleucine",Leucine.,141819.0,AA0446,"G5G, EEP",37.0
+12,"""2,4,5-topaquinone""",Tyrosine.,79027.0,AA0147,TPQ,65.0
+13,2-(S-cysteinyl)pyruvic acid O-phosphothioketal,Cysteine.,149496.0,AA0391,QPA,9.0
+14,2-methylglutamine,Glutamine.,nan,AA0273,MGN,25.0
+15,"3,4-dihydroxyarginine",Arginine.,141829.0,AA0369,2OR,0.0
+16,"""3,4-dihydroxyphenylalanine""",Tyrosine.,141815.0,AA0146,"TY3, DAH",23.0
+17,2-hydroxyproline,Proline.,141809.0,AA0602,PXU,6.0
+18,3-hydroxyasparagine,Asparagine.,141828.0,nan,"OWF, AHB",6.0
+19,3-hydroxyaspartate,Aspartate.,17427.0,nan,"DOH, BH2, 999, BHD",12.0
+20,3-hydroxyphenylalanine,Phenylalanine.,141841.0,AA0462,"H14, BB8",8.0
+21,3-hydroxyproline,Proline.,85428.0,AA0029,"G8X, HY3",18.0
+22,3-hydroxytryptophan,Tryptophan.,141794.0,AA0322,"UX8, HTR",11.0
+23,3-hydroxyvaline (Val),Valine.,141793.0,AA0463,"DHV, HVA",5.0
+24,3-hydroxyvaline (Thr),Threonine.,141793.0,nan,"DHV, HVA",5.0
+25,3-hydroxy-D-valine,Valine.,149516.0,nan,"DHV, HVA",5.0
+26,(3S)-3-methylglutamine,Glutamine.,149515.0,nan,LMQ,1.0
+27,3-methylisoleucine,Isoleucine.,149510.0,nan,I2M,3.0
+28,3-methylthioaspartic acid,Aspartate.,73599.0,AA0232,"KCX, 0TD, D2T",988.0
+29,3-methylvaline,Valine.,149511.0,nan,"HV5, TDD, BUG, TBG",21.0
+30,3-methyl-D-valine,Valine.,149513.0,nan,"HV5, TDD, BUG, TBG",21.0
+31,"""3-nitrotyrosine""",Tyrosine.,149694.0,AA0537,NIY,26.0
+32,4-aspartylphosphate,Aspartate.,145811.0,AA0033,"PHD, ASQ, PAS",58.0
+33,4-carboxyglutamate,Glutamate.,84990.0,AA0032,"SNP, CGU",75.0
+34,4-hydroxyarginine,Arginine.,141854.0,AA0215,ARO,2.0
+35,4-hydroxyglutamate,Glutamate.,141845.0,AA0487,3GL,2.0
+36,4-hydroxylysine,Lysine.,141495.0,AA0235,"UXY, LYO",7.0
+37,4-hydroxyproline,Proline.,61965.0,AA0030,"0AZ, UY7, HYP, UYA, HZP",355.0
+38,5-hydroxylysine,Lysine.,141817.0,AA0028,LYZ,15.0
+39,(5R)-5-hydroxylysine,Lysine.,133442.0,AA0028,LYZ,15.0
+40,(5S)-5-hydroxylysine,Lysine.,141843.0,AA0578,LYZ,15.0
+41,5-methylarginine,Arginine.,166868.0,AA0272,AGM,29.0
+42,"""7-hydroxytryptophan""",Tryptophan.,141831.0,AA0520,0AF,29.0
+43,ADP-ribosylarginine,Arginine.,142554.0,AA0168,F2R,0.0
+44,Alanine amide,Alanine.,145896.0,AA0081,66N,3.0
+45,Arginine amide,Arginine.,145897.0,AA0082,AAR,9.0
+46,Aspartic acid 1-amide,Aspartate.,145899.0,AA0084,XSN,8.0
+47,Asymmetric dimethylarginine,Arginine.,61897.0,AA0068,DA2,8.0
+48,Citrulline,Arginine.,83397.0,AA0214,CIR,50.0
+49,Cysteine amide,Cysteine.,145900.0,AA0085,CY3,15.0
+50,Cysteine persulfide,Cysteine.,61963.0,AA0269,CSS,188.0
+51,Cysteine sulfenic acid (-SOH),Cysteine.,61973.0,AA0205,"CEA, CSO",1117.0
+52,Cysteine sulfinic acid (-SO2H),Cysteine.,61974.0,AA0262,"CSW, CSD",556.0
+53,Cysteine sulfonic acid (-SO3H),Cysteine.,141830.0,AA0556,"OCS, 00C",301.0
+54,Diphthamide,Histidine.,16692.0,AA0040,DDE,42.0
+55,Glutamic acid 1-amide,Glutamate.,145903.0,AA0087,"ZGL, GMA",15.0
+56,Glutamine amide,Glutamine.,145904.0,AA0086,6E4,1.0
+57,Glycine amide,Glycine.,145906.0,AA0088,GM1,2.0
+58,GPI-anchor amidated serine,Serine.,143800.0,AA0162,A8C,0.0
+59,Histidine amide,Histidine.,145909.0,AA0089,HIA,5.0
+60,Hypusine,Lysine.,91175.0,AA0116,5CT,24.0
+61,Deoxyhypusine,Lysine.,82657.0,AA0564,5GG,2.0
+62,D-lactate,Serine.,149487.0,AA0186,"LAC, 2OP, DLA, LAC",19.0
+63,Leucine amide,Leucine.,145812.0,AA0091,"CLE, NLW",5.0
+64,Lysine amide,Lysine.,145912.0,AA0092,LYN,4.0
+65,Methionine amide,Methionine.,145913.0,AA0093,QXV,3.0
+66,Methionine sulfone,Methionine.,156065.0,AA0251,OMT,19.0
+67,Methionine (R)-sulfoxide,Methionine.,45764.0,AA0581,"MHO, SME",85.0
+68,Methionine sulfoxide,Methionine.,15989.0,nan,"MHO, SME",85.0
+69,(4R)-5-oxoleucine,Leucine.,nan,AA0444,LED,2.0
+70,"N,N,N-trimethylmethionine",Methionine.,nan,AA0456,4MM,1.0
+71,"N,N-dimethylalanine",Alanine.,nan,AA0433,LAL,4.0
+72,"N,N-dimethylglycine",Glycine.,nan,AA0620,DMG,4.0
+73,"N,N-dimethylproline",Proline.,145671.0,AA0066,PBE,1.0
+74,N2-acetylarginine,Arginine.,145666.0,AA0354,AAG,0.0
+75,"N4,N4-dimethylasparagine",Asparagine.,nan,AA0311,DMH,2.0
+76,N4-methylasparagine,Asparagine.,61960.0,AA0070,MEN,96.0
+77,N4-methyl-D-asparagine,Asparagine.,149514.0,nan,"MND, MEN",97.0
+78,(3R)-N4-methyl-3-hydroxy-D-asparagine,Asparagine.,149517.0,nan,HTN,1.0
+79,N5-methylglutamine,Glutamine.,61891.0,AA0071,MEQ,86.0
+80,"N6,N6,N6-trimethyllysine",Lysine.,61961.0,AA0074,M3L,304.0
+81,"N6,N6-dimethyllysine",Lysine.,61976.0,AA0075,"TRG, MLY",339.0
+82,N6-1-carboxyethyl lysine,Lysine.,156063.0,AA0115,RF9,1.0
+83,N6-acetyllysine,Lysine.,61930.0,AA0055,ALY,369.0
+84,N6-acetyl-N6-methyllysine,Lysine.,197459.0,nan,7QK,1.0
+85,N6-biotinyllysine,Lysine.,83144.0,AA0117,BYT,0.0
+86,N6-carbamoyllysine,Lysine.,144369.0,nan,YHA,1.0
+87,N6-carboxylysine,Lysine.,144366.0,AA0114,KCX,730.0
+88,N6-crotonyllysine,Lysine.,137954.0,AA0567,KCR,19.0
+89,N6-lactoyllysine,Lysine.,145324.0,nan,D8R,1.0
+90,N6-methyllysine,Lysine.,61929.0,AA0076,MLZ,156.0
+91,N6-myristoyl lysine,Lysine.,141129.0,AA0078,MYK,12.0
+92,N6-succinyllysine,Lysine.,87830.0,AA0545,SLL,15.0
+93,N6-butyryllysine,Lysine.,137955.0,AA0532,BTK,11.0
+94,N6-(beta-hydroxybutyryl)lysine,Lysine.,149490.0,nan,KHB,3.0
+95,N6-propionyllysine,Lysine.,138019.0,AA0475,PRK,6.0
+96,N-acetylalanine,Alanine.,83683.0,AA0041,AYA,129.0
+97,N-acetylaspartate,Aspartate.,140856.0,AA0042,KKD,2.0
+98,N-acetylcysteine,Cysteine.,133372.0,AA0043,"SC2, 1ZT",3.0
+99,N-acetylglutamate,Glutamate.,140857.0,AA0044,NLG,3.0
+100,N-acetylglycine,Glycine.,133369.0,AA0046,AAC,6.0
+101,N-acetylmethionine,Methionine.,133414.0,AA0049,AME,76.0
+102,N-acetylproline,Proline.,140859.0,AA0050,"N8P, N7P",10.0
+103,N-acetylserine,Serine.,83690.0,AA0051,SAC,150.0
+104,N-acetylthreonine,Threonine.,133375.0,AA0052,THC,23.0
+105,N-acetyltyrosine,Tyrosine.,140860.0,AA0053,"DAU, 3NF",0.0
+106,S-(2-succinyl)cysteine,Cysteine.,143134.0,AA0561,CML,6.0
+107,S-carbamoylcysteine,Cysteine.,nan,AA0332,QCS,3.0
+108,N-formylmethionine,Methionine.,49298.0,AA0021,FME,457.0
+109,N-methylalanine,Alanine.,nan,AA0061,"MAA, 33X",57.0
+110,N-methylaspartate,Aspartate.,195202.0,nan,"OEM, SOQ",6.0
+111,N-methylglycine,Glycine.,nan,AA0063,SAR,117.0
+112,N-methylhistidine,Histidine.,195204.0,nan,E9V,1.0
+113,N-methylisoleucine,Isoleucine.,nan,AA0336,"IML, WZJ",27.0
+114,N-methylleucine,Leucine.,nan,AA0337,MLE,99.0
+115,N-methylmethionine,Methionine.,nan,AA0064,MME,11.0
+116,N-methylphenylalanine,Phenylalanine.,nan,AA0065,"MEA, ZAE",64.0
+117,N-methylproline,Proline.,nan,AA0419,"PKR, 3BY",1.0
+118,N-methylserine,Serine.,nan,AA0533,"DSE, 5JP",10.0
+119,N-methylthreonine,Threonine.,194547.0,nan,"O7A, NZC",17.0
+120,N-methyltyrosine,Tyrosine.,nan,AA0338,YNM,7.0
+121,N-methylvaline,Valine.,194546.0,nan,"MV9, MVA",135.0
+122,N-palmitoyl glycine,Glycine.,143223.0,AA0339,140,0.0
+123,"""O-(pantetheine 4-phosphoryl)serine""",Serine.,64479.0,AA0150,4HH,7.0
+124,O-acetylserine,Serine.,141128.0,AA0364,OAS,18.0
+125,O-acetylthreonine,Threonine.,141025.0,AA0423,TH5,2.0
+126,O-di-AMP-tyrosine,Tyrosine.,167160.0,nan,BNZ,0.0
+127,Omega-N-methylarginine,Arginine.,65280.0,AA0069,NMM,20.0
+128,O-methylthreonine,Threonine.,167628.0,AA0464,"OLT, XDT",1.0
+129,O-octanoyl serine,Serine.,143548.0,AA0290,1IC,1.0
+130,Phenylalanine amide,Phenylalanine.,61957.0,AA0094,"NFA, W2O",17.0
+131,Phosphoarginine,Arginine.,83226.0,AA0222,RPI,1.0
+132,Phosphocysteine,Cysteine.,61975.0,AA0034,CSP,6.0
+133,Phosphoserine,Serine.,83421.0,AA0037,SEP,1862.0
+134,Phosphothreonine,Threonine.,61977.0,AA0038,"D11, TPO, YTH",1495.0
+135,Phosphotyrosine,Tyrosine.,82620.0,AA0039,PTR,845.0
+136,Proline amide,Proline.,145914.0,AA0095,"LPD, PR9",18.0
+137,Pros-methylhistidine,Histidine.,43903.0,AA0073,MHS,55.0
+138,Pros-phosphohistidine,Histidine.,64837.0,AA0036,HIP,8.0
+139,Pyrrolidone carboxylic acid,Glutamine.,87215.0,AA0031,"5HP, 7YO, PCA, PCC",897.0
+140,Pyrrolidone carboxylic acid (Glu),Glutamate.,87215.0,AA0031,"5HP, 7YO, PCA, PCC",897.0
+141,Serine amide,Serine.,145915.0,AA0096,SET,14.0
+142,S-methylcysteine,Cysteine.,82612.0,AA0234,"CYM, SMC, 060",66.0
+143,S-nitrosocysteine,Cysteine.,149494.0,AA0230,SNC,45.0
+144,S-palmitoyl cysteine,Cysteine.,74151.0,AA0106,P1L,18.0
+145,Sulfocysteine,Cysteine.,87169.0,AA0171,CSU,20.0
+146,Sulfoserine,Serine.,nan,AA0361,OSE,8.0
+147,Sulfotyrosine,Tyrosine.,65286.0,AA0172,"TYS, STY",335.0
+148,Symmetric dimethylarginine,Arginine.,88221.0,AA0067,2MR,147.0
+149,Tele-methylhistidine,Histidine.,16367.0,AA0317,"MH1, NEM, HIC",348.0
+150,Tele-phosphohistidine,Histidine.,83586.0,AA0035,NEP,60.0
+151,Threonine amide,Threonine.,145916.0,AA0097,9AT,3.0
+152,Tryptophan amide,Tryptophan.,145917.0,AA0098,LTN,1.0
+153,Tyrosine amide,Tyrosine.,145918.0,AA0099,TYC,15.0
+154,Valine amide,Valine.,145919.0,AA0100,VLM,7.0
+155,O-palmitoleoyl serine,Serine.,85189.0,AA0455,O18,0.0
+156,Pyruvic acid (Cys),Cysteine.,45360.0,AA0127,PYR,35.0
+157,Pyruvic acid (Ser),Serine.,45360.0,AA0127,PYR,35.0
+158,Pyruvic acid (Tyr),Tyrosine.,45360.0,AA0127,PYR,35.0
+159,Cholesterol glycine ester,Glycine.,143135.0,AA0309,CLR,10.0
+160,S-diacylglycerol cysteine,Cysteine.,140656.0,AA0107,DGA,17.0
+161,S-stearoyl cysteine,Cysteine.,143200.0,AA0407,STE,2.0
+162,N6-stearoyl lysine,Lysine.,143206.0,,STE,2.0
+163,N6-lipoyllysine,Lysine.,83099.0,AA0118,LPA,2.0
+164,S-glutathionyl cysteine,Cysteine.,21264.0,AA0229,GSH,79.0
+165,S-(dipyrrolylmethanemethyl)cysteine,Cysteine.,61892.0,AA0252,DPM,13.0
+166,O-(2-aminoethylphosphoryl)serine,Serine.,16542.0,AA0497,OPE,3.0
+167,Farnesylation,,,,FAR,23.0
+168,Geranylgeranylation,,,,GER,12.0
+169,Myristoylation,,,,MYR,179.0
+170,Palmitoleoylation,,,,PAM,7.0
+171,Palmitoylation,,,,PLM,137.0
+172,N-linked,,,,,11081.0
+173,O-linked,,,,,652.0
+174,S-linked,,,,,17.0
+175,C-linked,,,,,47.0

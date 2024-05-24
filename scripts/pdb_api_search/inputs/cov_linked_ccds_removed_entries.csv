@@ -1,0 +1,12 @@
+﻿ID,Mod_type,target_residue,residue_location,protein_location,PTM_type,ChEBI,RESID,CCD
+N6-(retinylidene)lysine,MOD_RES,Lysine.,Amino acid side chain.,Anywhere,Retinal protein.,149695,AA0120,RET
+6-(S-cysteinyl)-8alpha-(pros-histidyl)-FAD (His-Cys),Histidine-Cysteine.,Amino acid side chain-Amino acid side chain.,Anywhere-Anywhere.,FAD.,nan,AA0436,,FAD
+O-8alpha-FAD tyrosine,Tyrosine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0145,,FAD
+Pros-8alpha-FAD histidine,Histidine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0144,,FAD
+S-8alpha-FAD cysteine,Cysteine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0143,,FAD
+Tele-8alpha-FAD histidine,Histidine.,Amino acid side chain.,Anywhere.,FAD.,nan,AA0221,,FAD
+FMN phosphoryl serine,Serine.,Amino acid side chain.,Anywhere.,FMN; Phosphoprotein.,156050,AA0350,,FMN
+FMN phosphoryl threonine,Threonine.,Amino acid side chain.,Anywhere.,FMN; Phosphoprotein.,74257,AA0349,,FMN
+S-4a-FMN cysteine,Cysteine.,Amino acid side chain.,Anywhere.,FMN.,nan,AA0351,,FMN
+S-6-FMN cysteine,Cysteine.,Amino acid side chain.,Anywhere.,FMN.,nan,AA0220,,FMN
+Tele-8alpha-FMN histidine,Histidine.,Amino acid side chain.,Anywhere.,FMN.,nan,AA0352,,FMN

@@ -1,0 +1,18 @@
+﻿ID,Mod_type,target_residue,residue_location,protein_location,PTM_type,ChEBI,RESID,CCD
+Pyruvic acid (Cys),MOD_RES,Cysteine.,Amino acid backbone.,N-terminal.,Pyruvate.,45360,AA0127,PYR
+Pyruvic acid (Ser),MOD_RES,Serine.,Amino acid backbone.,N-terminal.,Pyruvate.,45360,AA0127,PYR
+Pyruvic acid (Tyr),MOD_RES,Tyrosine.,Amino acid backbone.,N-terminal.,Pyruvate.,45360,AA0127,PYR
+Cholesterol glycine ester,LIPID,Glycine.,Amino acid backbone.,C-terminal.,Cholesterol glycine ester,143135,AA0309,CLR
+S-diacylglycerol cysteine,LIPID,Cysteine.,Amino acid side chain.,N-terminal.,S-diacylglycerol,140656,AA0107,DGA
+S-stearoyl cysteine,LIPID,Cysteine.,Amino acid side chain.,Anywhere.,Stearoylation,143200,AA0407,STE
+N6-stearoyl lysine,LIPID,Lysine.,Amino acid side chain.,Anywhere.,Stearoylation,143206,N/A,STE
+N6-lipoyllysine,MOD_RES,Lysine.,Amino acid side chain.,Anywhere.,Lipoyl.,83099,AA0118,LPA
+D-lactate,MOD_RES,Serine.,Amino acid backbone.,N-terminal.,N/A,149487,AA0186,LAC
+S-glutathionyl cysteine,MOD_RES,Cysteine.,Amino acid side chain.,Anywhere,Glutathionylation.,21264,AA0229,GSH
+S-(dipyrrolylmethanemethyl)cysteine,MOD_RES,Cysteine.,Amino acid side chain.,Anywhere,,61892,AA0252,DPM
+O-(2-aminoethylphosphoryl)serine,MOD_RES,Serine.,Amino acid side chain.,Anywhere.,Phosphoprotein.,16542,AA0497,OPE
+Farnesylation,LIPID,,,,Prenylation.,,,FAR
+Geranylgeranylation,LIPID,,,,Prenylation.,,,GER
+Myristoylation,LIPID,,,,Myristate.,,,MYR
+Palmitoleoylation,LIPID,,,,Palmitoleoylation.,,,PAM
+Palmitoylation,LIPID,,,,Palmitate.,,,PLM

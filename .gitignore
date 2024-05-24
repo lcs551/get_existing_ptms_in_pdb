@@ -1,0 +1,5 @@
+scripts/env/
+scripts/substructure_search/inputs/ChEBI_complete.sdf
+scripts/substructure_search/inputs/Components-pub.sdf
+.DS_Store
+__pycache__

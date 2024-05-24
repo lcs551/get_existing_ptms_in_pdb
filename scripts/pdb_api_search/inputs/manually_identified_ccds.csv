@@ -1,0 +1,25 @@
+ID,Mod_type,target_residue,residue_location,protein_location,PTM_type,ChEBI,RESID,CCD
+"""Aspartic acid 1-[(3-aminopropyl)(5-adenosyl)phosphono]amide""",MOD_RES,Asparagine.,Amino acid backbone.,C-terminal.,Phosphoprotein.,60869,AA0328,7MD
+(3R)-3-hydroxyarginine,MOD_RES,Arginine.,Amino acid side chain.,Anywhere.,Hydroxylation.,78294,AA0601,"4D4, ZZU"
+3-methylisoleucine,MOD_RES,Isoleucine.,Amino acid side chain.,Anywhere.,Methylation.,149510,,I2M
+ADP-ribosylarginine,MOD_RES,Arginine.,Amino acid side chain.,Anywhere.,ADP-ribosylation.,142554,AA0168,F2R
+Cysteine sulfonic acid (-SO3H),MOD_RES,Cysteine.,Amino acid side chain.,Anywhere.,Oxidation.,141830,AA0556,00C
+N-acetyltyrosine,MOD_RES,Tyrosine.,Amino acid backbone.,N-terminal.,Acetylation.,140860,AA0053,3NF
+N-methylalanine,MOD_RES,Alanine.,Amino acid backbone.,Anywhere.,Methylation.,17519,AA0061,33X
+N-methylisoleucine,MOD_RES,Isoleucine.,Amino acid backbone.,Anywhere.,Methylation.,43312,AA0336,WZJ
+N-methylphenylalanine,MOD_RES,Phenylalanine.,Amino acid backbone.,Anywhere.,Methylation.,43980,AA0065,ZAE
+N-methylproline,MOD_RES,Proline.,Amino acid backbone.,N-terminal.,Methylation.,90344,AA0419,"PKR, 3BY"
+N-methylserine,MOD_RES,Serine.,Amino acid backbone.,Anywhere.,Methylation.,172327,AA0533,"DSE, 5JP"
+N-methyltyrosine,MOD_RES,Tyrosine.,Amino acid backbone.,Anywhere.,Methylation.,,AA0338,YNM
+"N,N-dimethylalanine",MOD_RES,Alanine.,Amino acid backbone.,N-terminal.,Methylation.,77042,AA0433,LAL
+"N,N-dimethylglycine",MOD_RES,Glycine.,Amino acid backbone.,N-terminal.,Methylation.,17724,AA0620,DMG
+"N,N-dimethylproline",MOD_RES,Proline.,Amino acid backbone.,N-terminal.,Methylation.,145671,AA0066,PBE
+"N,N,N-trimethylmethionine",MOD_RES,Methionine.,Amino acid backbone.,N-terminal.,Methylation.,,AA0456,4MM
+N2-acetylarginine,MOD_RES,Arginine.,Amino acid backbone.,N-terminal.,Acetylation.,145666,AA0354,AAG
+N6-(beta-hydroxybutyryl)lysine,MOD_RES,Lysine.,Amino acid side chain.,Anywhere.,Hydroxylation.,149490,,KHB
+N6-succinyllysine,MOD_RES,Lysine.,Amino acid side chain.,Anywhere.,,87830,AA0545,SLL
+Omega-N-methylarginine,MOD_RES,Arginine.,Amino acid side chain.,Anywhere.,Methylation.,65280,AA0069,NMM
+Phosphoarginine,MOD_RES,Arginine.,Amino acid side chain.,Anywhere.,Phosphoprotein.,83226,AA0222,RPI
+S-(dipyrrolylmethanemethyl)cysteine,MOD_RES,Cysteine.,Amino acid side chain.,Anywhere.,,61892,AA0252,DPM
+S-carbamoylcysteine,MOD_RES,Cysteine.,Amino acid side chain.,Anywhere.,,,AA0332,QCS
+N-acetylserine,MOD_RES,Serine.,Amino acid backbone.,N-terminal.,Acetylation.,83690,nan,SAC
